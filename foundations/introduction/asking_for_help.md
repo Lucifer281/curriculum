@@ -44,4 +44,8 @@ People who volunteer in coding communities are here to help! But a question you 
 - Describe the “XY Problem”.
 - Describe three attributes of a "help vampire".
 
+### Checking Knowledge:
+- context & necessary codes
+- "XY Problem": suppose I want help with a topic 'X' but I think that if I can get help with a topic 'Y' then I can also understand 'X'. But when somebody try to help me with 'Y' and find it rather confusing and irritating, and after wasting a decent amount of time(which can be a lot sometimes) I understand that I truly needed help with 'X' & 'Y' wasn't the way to fumble through 'X'
+- three attributes of a "help vampire": (1) He clearly lacks the ability or inclination to ask the almighty Google. (2) He refuses to take the time to ask coherent, specific questions. (3) He thinks helping him must be the high point of my day.
 
